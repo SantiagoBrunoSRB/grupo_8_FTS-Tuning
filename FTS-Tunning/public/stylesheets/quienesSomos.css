@@ -53,6 +53,10 @@ section  .user{
    .text-description{
     font-size: 23px;
     width: 79%;
+    display: flex;
+    justify-content: 
+    ;
+    
    }
 
 
